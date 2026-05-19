@@ -1,2 +1,10 @@
 jupyterlite-core
 jupyterlite-pyodide-kernel
+notebook
+jupyter_server
+# Python: ipywidget library for Jupyter notebooks (optional)
+ipywidgets>=8.1.3,<9
+
+lxml
+matplotlib
+
